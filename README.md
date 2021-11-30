@@ -1,2 +1,2 @@
-# Machine-Learning-Portfolio
-A compendium of my machine learning related projects
+# Data-Science-Portfolio
+A compendium of my data science and machine learning related projects
